@@ -2,5 +2,5 @@ function menuClicked() {
 alert("You clicked the menu");
 }
 function replaceGraphs() {
-  $('#graphdiv').replaceWith("<img id='graphdiv' src='images/ucl.png'/>");
+	document.getElementById("graphdiv").innerHTML="<img src='images/ucl.png'>";
 }
