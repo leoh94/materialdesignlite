@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "FullTemplate",
+  "short_name": "FullTemplate",
+  "version": "fullmaterialtemplate",
+  "description": "Original Dashboard Template from Material Design",
+  "author": "Leo Hussain",
+  "icons": [],
+  "start_url": "index.html"
+}
