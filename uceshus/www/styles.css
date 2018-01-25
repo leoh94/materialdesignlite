@@ -153,6 +153,12 @@ _:-ms-input-placeholder, :root .demo-graph {
 .demo-graph:nth-child(2) {
   color: #d9006e;
 }
+.demo-graph:nth-child(3) {
+  color: #0BBF02;
+}
+.demo-graph:nth-child(4) {
+  color: #FF9800;
+}
 
 .demo-cards {
   -webkit-align-items: flex-start;
